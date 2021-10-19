@@ -1,2 +1,2 @@
 # Modsim-P2
-Projeto de tremodinâmica
+Projeto de termodinâmica
